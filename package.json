@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-slack-bot",
+  "version": "1.0.0",
+  "description": "Simple Slack bot using NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "0.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeaholicguy/nodejs-slack-bot.git"
+  },
+  "author": "codeaholicguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeaholicguy/nodejs-slack-bot/issues"
+  },
+  "homepage": "https://github.com/codeaholicguy/nodejs-slack-bot#readme"
+}
